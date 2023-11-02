@@ -1,7 +1,7 @@
 import os
 
-filename='123 yomom.txt'
-directoryPath = 'C:/Users/Juls/Desktop/rename test'
+filename='insert one file name'
+directoryPath = 'insert your file directory here'
 fileList = os.listdir(directoryPath)
 
 os.chdir(directoryPath)
